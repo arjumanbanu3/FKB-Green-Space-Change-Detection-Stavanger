@@ -177,6 +177,4 @@ This project demonstrates how official Norwegian FKB datasets can be used to mon
 
 Arjuman Banu
 
-MSc in Environmental Engineering
-
 GIS | Spatial Analysis | QGIS | Python
